@@ -16,7 +16,7 @@ Sistemas Operativos
   Contonuando con el apartado de sincronización, creamos un demonio que periodicamente, comprueba si los directorios estan sincronizados 
   y los soncronice en caso de ser necesario.
   
-- **Creación de un fichero TAR MyTar : **
+- **Creación de un fichero TAR MyTar:**
 Herramienta de linea de órdenes llamada mytar, capaz de crear un archivo tarball que contiene varios ficheros, o de extraer los ficheros de un tarball previamente creado.
 
 - **Sistema de ficheros propio (myFUSE):**
@@ -26,7 +26,7 @@ Para ello usamos la biblioteca FUSE1 (Filesystem in Userspace) que proporciona u
 - **Planificacion y sincronizacion (Procesos e hilos):**
 implementarán distintos algoritmos de planificación en un simulador que refleja con bastante exactitud la estructura de un planificador real.
 
-- **Implementacion de un Driver sensillo en Linux: **
+- **Implementacion de un Driver sensillo en Linux:**
 Control de los leds del teclado.
 
   
