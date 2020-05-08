@@ -24,7 +24,7 @@ Se implementa un conjunto de funciones que dota a este sistema de una funcionali
 Para ello usamos la biblioteca FUSE1 (Filesystem in Userspace) que proporciona una API sencilla que permite implementar sistemas de ficheros.
 
 - **Planificacion y sincronizacion (Procesos e hilos):**
-implementarán distintos algoritmos de planificación en un simulador que refleja con bastante exactitud la estructura de un planificador real.
+Implementarán distintos algoritmos de planificación en un simulador que refleja con bastante exactitud la estructura de un planificador real. Planificador FCFS(First Come First Served), planificador expropiativo basado en prioridades (SJF),  RR (round-robin), planificacion expropiativo por loteria, de mayor tiempo restante.
 
 - **Implementacion de un Driver sensillo en Linux:**
 Control de los leds del teclado.
